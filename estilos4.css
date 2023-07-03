@@ -12,7 +12,7 @@
 
 .item {
     padding: 10px;
-    border: 1px solid yellow;
+    border: 1px solid orange;
 }
 
 .header {
@@ -67,7 +67,7 @@ a:hover.menu {
     background-color:rgb(255, 228, 107);
 }
 
-.menu:first-child {
+#bo {
     background-color: rgb(248, 207, 70);
 }
 
@@ -160,22 +160,22 @@ h2 {
 .c1-1, .c2-1, .c4-1, .c2-2, .c4-2, 
 .c5-2, .c6-2, .c1-3, .c3-3, .c4-3, 
 .c2-4, .c2-5, .c3-5, .c4-5 {
-    background: lightcyan;
+    background: white;
     width: 30px;
     height: 30px;
 }
 .c3-1, .c3-2, .c1-2, .c3-4, .c4-4 {
-    background: lightcyan;
+    background: white;
     width: 30px;
     height: 30px;
 }
 .c2-33, .c1-44{
-   
+   background: lightgray;
     width: 30px;
     height: 30px;
 }
 .c5-4, .c1-5 {
-    background: lightcyan;
+    background: white;
     width: 30px;
     height: 30px;
 }
